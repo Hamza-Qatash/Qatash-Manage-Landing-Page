@@ -2,7 +2,7 @@
 <br />
 <div align="center">
     <a target="_blank" href="https://github.com/Hamza-Qatash/Qatash-Homesmart">
-        <img src="./img/logo.svg" alt="Logo" width="80" height="80">
+        <img src="./img/logo.svg" alt="Logo" width="180" height="80">
     </a>
   <h3 align="center">Qatash | Manage Landing Page</h3>
 
